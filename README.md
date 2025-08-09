@@ -1,4 +1,5 @@
-React Firebase Authentication with Protected Routes
+React Firebase Authentication with Protected Routes.
+
 This project demonstrates how to implement user authentication with Firebase in a React application, featuring protected routes for both regular users and administrators.
 
 Features
